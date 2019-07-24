@@ -1,0 +1,9 @@
+C:\Projekty\Apki\C#\AppChecker\AppChecker\bin\Release\TlumaczPodtrzymanie.exe.config
+C:\Projekty\Apki\C#\AppChecker\AppChecker\bin\Release\TlumaczPodtrzymanie.exe
+C:\Projekty\Apki\C#\AppChecker\AppChecker\bin\Release\TlumaczPodtrzymanie.pdb
+C:\Projekty\Apki\C#\AppChecker\AppChecker\obj\Release\AppChecker.Form1.resources
+C:\Projekty\Apki\C#\AppChecker\AppChecker\obj\Release\TlumaczPodtrzymanie.Properties.Resources.resources
+C:\Projekty\Apki\C#\AppChecker\AppChecker\obj\Release\AppChecker.csproj.GenerateResource.cache
+C:\Projekty\Apki\C#\AppChecker\AppChecker\obj\Release\AppChecker.csproj.CoreCompileInputs.cache
+C:\Projekty\Apki\C#\AppChecker\AppChecker\obj\Release\TlumaczPodtrzymanie.exe
+C:\Projekty\Apki\C#\AppChecker\AppChecker\obj\Release\TlumaczPodtrzymanie.pdb
